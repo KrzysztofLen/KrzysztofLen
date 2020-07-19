@@ -1,7 +1,7 @@
 ### Hi there I'm Chris 👋
 ---
 
-<img width="100%" src="https://ibb.co/3WdTtJF" alt="Screenshot">
+<img src="https://i.ibb.co/d6Mfnhp/Screenshot.jpg" alt="Screenshot" width="100%">
 
 ## About me
 
