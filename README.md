@@ -14,3 +14,6 @@ My recent articles:
 
 - [Flutter conventional commits—with git hooks and Lefthook 👑](https://www.fun4code.com/flutter-conventional-commits-with-git-hooks-and-lefthook/)
 - [Formik and ZOD -Validating Forms with Schema ✌️💡](https://www.fun4code.com/formik-zod-forms-schema-validation/)
+
+## 💻 Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofLen&size_weight=0.5&count_weight=0.5)
