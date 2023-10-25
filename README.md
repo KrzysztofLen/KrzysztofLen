@@ -15,6 +15,7 @@ My recent articles:
 - [Flutter conventional commits—with git hooks and Lefthook 👑](https://www.fun4code.com/flutter-conventional-commits-with-git-hooks-and-lefthook/)
 - [Formik and ZOD -Validating Forms with Schema ✌️💡](https://www.fun4code.com/formik-zod-forms-schema-validation/)
 - [Full Stack Application – HTMX + ExpressJS + Turso: A Step-by-Step Guide 🎉 📚](https://www.fun4code.com/htmx-expressjs-a-step-by-step-guide/)
+- [Building a Flutter application with a local ISAR database 📱](https://www.fun4code.com/flutter-isar-db/)
 
 ## 💻 Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofLen&size_weight=0.5&count_weight=0.5)
